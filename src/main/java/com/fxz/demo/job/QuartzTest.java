@@ -1,7 +1,7 @@
 package com.fxz.demo.job;
 
 /**
- * 描述：
+ * 描述：Quartz定时任务
  *
  * @author Fang
  * @date 2021-01-21 09:33:17
